@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @classtigress
+- 👋 Hi, I’m @lightcanon
 - 👀 I’m interested in furthering my coding knowledge, focusing on Python. I would also like to sharpen my JavaScript and HTML skills. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on various projects that implement financial tools using Python.
